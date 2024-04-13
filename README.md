@@ -8,16 +8,15 @@ This app integrates the **Nutritionix Track API** to get detailed nutrient break
 
 For more information on this API, follow this link: https://developer.nutritionix.com/docs/v2 
 
-# Get Started
+## Get Started
 
 If you want to play around with this project:
 - get a free account https://www.nutritionix.com/business/api to get your API keys
-- use these keys in every API call you make 
-- see src/api/api.js
+- use these keys in every API call you make see [/src/api/api.js](/src/api/api.js)
   
-Then clone this repo, open it in VS code and run: 
-
-   - npm install (you need Node.js to run these commands)
-   - npm run dev
-
+Then clone this repo, open it in VS code and run (you need Node.js to run these commands): 
+```
+npm install 
+npm run dev
+```
 
