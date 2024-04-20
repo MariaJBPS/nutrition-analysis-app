@@ -12,9 +12,9 @@ For more information on this API, follow this link: https://developer.nutritioni
 
 If you want to play around with this project:
 - get a free account https://www.nutritionix.com/business/api to get your API keys
-- use these keys in every API call you make see [/src/api/api.js](/src/api/api.js)
+- use these keys in every API call you make, see [/src/api/api.js](/src/api/api.js)
   
-Then clone this repo, open it in VS code and run (you need Node.js to run these commands): 
+Then clone this repo, open it in VS code, and run: 
 ```
 npm install 
 npm run dev
